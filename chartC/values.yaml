@@ -1,0 +1,7 @@
+firstApp:
+  chartA:
+    enabled: false
+
+secondApp:
+  chartA:
+    enabled: false

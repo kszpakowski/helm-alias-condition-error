@@ -1,0 +1,4 @@
+apiVersion: v2
+appVersion: v0.1.0
+name: chartA
+version: 0.1.0

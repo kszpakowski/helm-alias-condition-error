@@ -1,0 +1,9 @@
+apiVersion: v2
+appVersion: v0.1.0
+name: chartB
+version: 0.1.0
+dependencies:
+  - name: chartA
+    version: 0.1.0
+    alias: chartAalias
+    condition: chartA.enabled
